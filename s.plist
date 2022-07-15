@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://ongcenh.github.io/icons/dangtai.png</string>
+					<string>https://ipasforyou.rf.gd/log.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://quangminh388.github.io/icon/scarlet.png</string>
+					<string>https://ipasforyou.rf.gd/log.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Ông Cễnh</string>
+				<string>THUNDR</string>
 				<key>title</key>
-				<string>Scarlet TQM</string>
+				<string>IPAs For You</string>
 			</dict>
 		</dict>
 	</array>
